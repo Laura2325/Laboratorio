@@ -5,7 +5,6 @@ import { ROLES } from './usuariosConstantes.js';
 import { crearUsuario } from './Usuarios.js';
 
 
-
 //! Ejercicio1
 const radio = 5;
 const area = PI * radio ** 2;
